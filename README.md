@@ -9,7 +9,7 @@ Curve Rush is a casual action game developed by azgames.io, released on February
 How to Play Curve Rush
 Gameplay Basics: Use the mouse, Up arrow, or Spacebar to control the ball. Hold to speed up and release to fly; hold again to land smoothly.
 
-Access: Play at https://curverush.biz/.
+# Access: Play at https://curverush.biz/.
 
 Fly and Rush Through Curves
 Terrain Mastery: The game takes place on continuous sand hills where accelerating the ball to fly high is crucial. Timing is key to using steep hills for momentum and landing safely.
@@ -19,7 +19,7 @@ Challenge and Reward: Earn gold by performing high flies and reaching milestones
 Beat Different Milestones
 Challenges: The game offers four cups with 35 levels each, set in different environments. Milestones require skills like smooth landings and reaching specific scores.
 
-Examples of Milestones:
+# Examples of Milestones:
 
 Level 1: Score at least one point.
 
